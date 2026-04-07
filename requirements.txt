@@ -1,0 +1,14 @@
+streamlit
+fastapi
+uvicorn
+langchain
+faiss-cpu
+pdfplumber
+sentence-transformers
+transformers
+torch
+pandas
+matplotlib
+requests
+protobuf==3.20.3
+python-multipart
